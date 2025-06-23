@@ -18,6 +18,14 @@ app.get("/log",(req,res)=>{
     "sensitiveProductReportsToValidate":0
   })
 })
+app.get("/log2",(req,res)=>{
+  res.send({
+    "transfersToValidate":0,
+    "interMagasins":0,
+    "directEnCours":0,
+    "sensitiveProductReportsToValidate":2
+  })
+})
 app.get("/dev",(req,res)=>{
   res.send([
     { id: 0, sousTitreKey: "common:transfert", valeur: 1 },
