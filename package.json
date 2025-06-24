@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node app.js"
   },
+  "engines": {
+  "node": "18.x"
+  },
   "author": "Xavier THIEULEUX",
   "license": "ISC",
   "dependencies": {
