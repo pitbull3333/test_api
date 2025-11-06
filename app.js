@@ -1,15 +1,13 @@
 const express=require("express");
 const cors = require("cors");
-const port=process.env.PORT || 800;
+const fs = require("fs");
+const port = process.env.PORT || 800;
 var app=express();
 app.use(cors());// Active CORS pour toutes les routes
-app.listen(port,(err)=>{
-  if(err){
-    console.log("Le serveur n'a pas pu démarrer");
-  } else{
-    console.log("Le serveur est en écoute sur le port " + port);
-  }
-});
+const data = JSON.parse(fs.readFileSync('./data/harry_potter_characters.json', 'utf8'));
+app.get("/harry_potter",(req,res)=>{
+  res.send(data);
+})
 app.get("/log",(req,res)=>{
   res.send({
     "transfersToValidate":0,
@@ -47,3 +45,10 @@ app.get("/prod",(req,res)=>{
     },
   ]);
 })
+app.listen(port,(err)=>{
+  if(err){
+    console.log("Le serveur n'a pas pu démarrer");
+  } else{
+    console.log("Le serveur est en écoute sur le port " + port);
+  }
+});
