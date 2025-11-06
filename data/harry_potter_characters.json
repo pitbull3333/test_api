@@ -149,7 +149,7 @@
   },
   {
     "id": "3569d265-bd27-44d8-88e8-82fb0a848374",
-    "name": "Severus Snape",
+    "name": "Severus Rogue",
     "alternate_names": [
       "Half-Blood Prince",
       "Snivellus",
@@ -208,7 +208,7 @@
   },
   {
     "id": "3db6dc51-b461-4fa4-a6e4-b1ff352221c5",
-    "name": "Neville Longbottom",
+    "name": "Neville Londubat",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
@@ -218,7 +218,7 @@
     "wizard": true,
     "ancestry": "pure-blood",
     "eyeColour": "",
-    "hairColour": "blonde",
+    "hairColour": "black",
     "wand": {
       "wood": "cherry",
       "core": "unicorn tail hair",
@@ -461,7 +461,7 @@
   },
   {
     "id": "d58e7249-19d1-40bd-a43f-1da0497fe8aa",
-    "name": "Dolores Umbridge",
+    "name": "Dolores Ombrage",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
@@ -537,32 +537,7 @@
     "alive": false,
     "image": "https://ik.imagekit.io/hpapi/crabbe.jpg"
   },
-  {
-    "id": "32923dab-16e1-4da1-8af7-bf9bec9ece1b",
-    "name": "Mr Crabbe",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Paschal Friel",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+  
   {
     "id": "a31ddc78-af12-4978-929c-3cc8a00a833e",
     "name": "Gregory Goyle",
@@ -589,35 +564,10 @@
     "alive": true,
     "image": "https://ik.imagekit.io/hpapi/goyle.jpg"
   },
-  {
-    "id": "0d72d9ce-9560-4e72-bd2e-f0af02f32caa",
-    "name": "Mr Goyle",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "Alex Palmer",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "b0620914-858d-46fc-8e6d-033c565e138b",
-    "name": "Mrs Norris",
+    "name": "Miss Teigne",
     "alternate_names": [],
     "species": "cat",
     "gender": "female",
@@ -643,7 +593,7 @@
   },
   {
     "id": "2b82cfb8-0440-4a57-a030-6d75a40c0d98",
-    "name": "Argus Filch",
+    "name": "Argus Rusard",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
@@ -679,7 +629,7 @@
     "wizard": false,
     "ancestry": "muggle",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "black",
     "wand": {
       "wood": "",
       "core": "",
@@ -691,7 +641,7 @@
     "actor": "Richard Griffiths",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cd/Verny.jpg/revision/latest?cb=20150123193712&path-prefix=fr"
   },
   {
     "id": "fed624df-56d9-495e-9ad4-ea77000957e8",
@@ -717,7 +667,7 @@
     "actor": "Fiona Shaw",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7b/Petunia-dursley-prisoner-of-azkaban-portrait-1050x0-c-default.jpg/revision/latest?cb=20220704020611&path-prefix=pt-br"
   },
   {
     "id": "7614cf6e-689e-47ac-a976-b1e9997637e9",
@@ -743,39 +693,12 @@
     "actor": "Harry Melling",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/19/Dudley_DH.png/revision/latest?cb=20200413050209"
   },
-  {
-    "id": "5711b801-20fc-43e4-831c-31427cf3023f",
-    "name": "Boa constrictor",
-    "alternate_names": [
-      "A Brazilian Boa Constrictor"
-    ],
-    "species": "snake",
-    "gender": "",
-    "house": "",
-    "dateOfBirth": "",
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "beady",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "41cd0bbe-a943-431b-9bde-bb2cad3491a1",
-    "name": "Lily Potter",
+    "name": "Lily Evans Potter",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
@@ -785,7 +708,7 @@
     "wizard": true,
     "ancestry": "muggleborn",
     "eyeColour": "green",
-    "hairColour": "",
+    "hairColour": "red",
     "wand": {
       "wood": "willow",
       "core": "",
@@ -797,7 +720,7 @@
     "actor": "Geraldine Somerville",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/f/ff/Lily_Potter.jpg/revision/latest?cb=20170317143046&path-prefix=fr"
   },
   {
     "id": "34eb6182-00cf-4c95-ae73-7d2f34066d18",
@@ -825,7 +748,7 @@
     "actor": "Adrian Rawlins",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/10/James_Potter_I_Deathly_Hallows.jpg/revision/latest?cb=20180601015416"
   },
   {
     "id": "b415c867-1cff-455e-b194-748662ac2cca",
@@ -855,11 +778,11 @@
       "Michael Gambon"
     ],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/75/Albus_Dumbledore_%28HBPF_promo%29.jpg/revision/latest/scale-to-width-down/1000?cb=20150822232849"
   },
   {
     "id": "7f29cc65-168d-429d-92f6-7e6f8c72280b",
-    "name": "Fawkes",
+    "name": "Fumseck",
     "alternate_names": [],
     "species": "phoenix",
     "gender": "male",
@@ -881,7 +804,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f8/Fawkes_WB_F2_FawkesCloseUpIllustration_Illust_100615_Port.jpg/revision/latest?cb=20151218225509"
   },
   {
     "id": "63c6fcff-a1a4-4caf-a5ac-e2197c12cb1e",
@@ -897,7 +820,7 @@
     "wizard": false,
     "ancestry": "squib",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "Grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -909,7 +832,7 @@
     "actor": "Kathryn Hunter",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://preview.redd.it/hmgukwizwjuf1.jpeg?width=640&crop=smart&auto=webp&s=4b0039f5ba85e8139985f277000b97bbd0b677b2"
   },
   {
     "id": "162b34f3-aaab-46ae-980b-f2a5ebceb684",
@@ -928,7 +851,7 @@
     "wizard": false,
     "ancestry": "muggle",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "red",
     "wand": {
       "wood": "",
       "core": "",
@@ -940,167 +863,13 @@
     "actor": "Pam Ferris",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8IrzpzHXaoZe7OKeoYGzh-nLVe8Tpqud6_lZuwus0ZpKPwxPlWggBYlApilQFBkdh6ye8eeIhjawOYyAVpGwH3LC6L5IArwKQbAX5NMB8EA&s=10"
   },
-  {
-    "id": "8c4a6cad-4cc9-4821-a703-30b628a1c72e",
-    "name": "Ripper",
-    "alternate_names": [],
-    "species": "dog",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "black",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "d70f60ae-81ea-4230-905d-cb52c801c1fb",
-    "name": "Yvonne",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "57fa4f38-a1ff-4671-890d-49af38b2a619",
-    "name": "Piers Polkiss",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Jason Boyd",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "a18ef59a-89cf-4afd-bf87-83273990d911",
-    "name": "Dennis",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Christopher Rithin",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "ef33d1e6-427c-465e-9a9f-037442b376d3",
-    "name": "Malcolm",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Richard Macklin",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "71a95495-134d-4af7-8473-5f3495979845",
-    "name": "Gordon",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+ 
+    
   {
     "id": "4bd76a78-86d8-40f6-aed4-74fe51783594",
-    "name": "Griphook",
+    "name": "Gripsec",
     "alternate_names": [],
     "species": "goblin",
     "gender": "male",
@@ -1110,7 +879,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "Black",
     "wand": {
       "wood": "",
       "core": "",
@@ -1124,7 +893,7 @@
       "Warwick Davis"
     ],
     "alive": false,
-    "image": ""
+    "image": "https://nickdudman.co.uk/wp-content/uploads/2016/02/nd078.jpg"
   },
   {
     "id": "6b59be3f-e527-422d-959d-79fcdb3b24eb",
@@ -1158,7 +927,7 @@
       "Bandit"
     ],
     "alive": false,
-    "image": ""
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSExMVFRUXFRcXFxgYFxUXFxcXGBcXFxUVFxcYHSggGBolHRUXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGBAQGi0lHyUtLS4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAPcAzAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xAA8EAACAQIDBQYEBQMCBwEAAAABAgADEQQSIQUxQVFhBhMicYGRMqGxwQcUQlLRI2Lh8PEVJDOCkqKycv/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACMRAQEBAQACAgICAwEAAAAAAAABAhEDIRIxQVFhcSIyQgT/2gAMAwEAAhEDEQA/APIrQlOCLRytM1LChUk1asqqTSUH0h0cHerBnEQDPGb4SlxMXFSTTxcqwkIkrpcXFPEQ/fynpvCirH2EuKVSWGFMosPVl1gTFTXVFNIRlnYbdCusiqiqxyylxCy+xxlLiJE+11AtrJVMQKUizBVBYk2AAJJPAACeg9mPw7quwfFju0/YD426EjRR8/KaIYWcwnr9P8O8GC5fO2Y+EBioQcANST5m8jL+GmFF71K55aoLddF1lSFXk7QTCehbT/DOqLmhWWppcK4yt5ZhcE+0wuKwj02KVEZGXeGBBH+OsL6JFUSTREDC0jIqkh90rKy6yyLaSBU3xBjrx6wcKglEPSEKIymIW0lRMsJSSPRYQLGTik4JCER6JGQSpCBJISnCimIAOhTlzgZXIJPwY1gGhw50hGqQWHcWj3EmqivxsFsPYdTG1hSp6De7cEXn1PISRWpFrKBqSAPM6CepdndlLg6Api2c61G5tx9BDOe1V+j9gdnMNgltTF3PxVGsXPrwGm4S3z8pgNvfiHh6TlFDvlbKzAAC43gX3y77N7eGJpl1By8NLfKa5ufqVNlaIXiM9pC/OX0mc7U9pDhBfKWJ3Dnrb7zS8k7Ufw2C1xFIVt4B0tuvpynimG/E7EmpYJTPDJZ7+956b2U29+coLW7s07kgg66qbGx4iRNZ1eQWWTrHfiD2NSkDicOMq3vUTgL/AKl5Dp7cphaM+gMXSWojI4DKwIIPEGeHbY2acNiHoncD4TzQ6qfaTvPPZ5vUZhpIVW95YcJBqDWZqY0CFpCNRbyQlOUk9BDKIxRFBiNIpiFtAKYURkfHrGLCAQgOBjwTEtHIYUC05a4QSvw63lxhUsIBLpSUFMDhxJJaTVRe9jNk95V75vgpnTq/D23+02uIUG95D2Fg+4oKh+KxLf8A6bUj03ekLUq2Ouk38eeQaefYj8PBVrMHa6F2cEXB1N8radeE0LmlgqIo0bBVG4339Tvl6+KS2h+cw3bDaqKj2FzckW33tcCZ3GcdsV8rftF2H2yD1e7JtmNlOhJ6EmbDE4SlibJVAJGo6X4fSeB4DHZKyt8Njc2G70nr/Zrbiuqlt9rseZ4Ssa/5rO/tKp9icKlQ1MrBj1H1teabBUFpqEQBVGgA4CRhtVRpofnCYfE592k1zjGf9ZEW6v2ll5ju32xzWUVlAz09/VN5HmD95r2FtTKzbFYd04H7T9JVnZwp9vIpDq74dWgKm+cbZmKVOSkpxlGSAZSQ2WAaHdoMiIzqckCBWGWMFhEaDhEWOFRzujUikaRFWAT8Jvl1RXSVOBpS9oJpEBKOkv8Aszs416wNvAhDMfLcPUj6wuxex9WtZqn9KmefxkdF4eZm9wGzKdFBTpjKo9STzY8TFIo0qIKtRDbxJmQCBrVOE6JU1msbsgt8Iyi8oNpdn767zz6z0DJeM/Krx1ka8WafzryWh2VtULimCTz1t5TQYLYfMTcnBrwEH3QHCPPiifkq8FstVG6Wgwy2jslomfnNefpPQsRT0tmMo9uKRRqWOuVvppLqu/ATNdq8RloPblb30lX6KPOKYgKg1khIGrvnC2ZKjVhnrSspvaEapeUlJSrcw5kGnJdMwMRTJCGDpiPYQAqGGQyJSMMkISUzR9GRKjSdsfAVa7hKSFiTbpfqeg1j6FvsnDPUdUpqWYnQDf8A4HWet9m+y1PD2epZ6v8A6of7Rz6/SM7J9n6eDQAWaqR434k8hyWXzPKmT5wUVgdxBsbHz4iDqYi0rcNhzTzBblWYsBbdmNyL8dYX8u536TSZn5Tb+i1MWALk24SNXFRtVHW5ktdnpvPiPC8kEWldn4JBp1+cL3wja+FB1XfK5i6tYjS2+8YXCVIrtICVOUKK0OEO9oGooInd5pAVKnOOQkaucpmT7XVf+XfqR/8AQmrxT6dZiu3ZK0QD+phb3vFv/WqjHo8a8ZSMVzONowgjkiKJIppKIWmsOqRlOSFiB1KFMGkMd0YDWGDQBMvex2wHx+IWiLhQM1Rv2qN/S+osIELsTs++Kp1HQFitgoHE6Fj6D6z2Hs9sJaFFEVbMALncBz143O/nLXZGxcPg0yUUyLvPEk2tck6k6SSLscx0A3D7mXnMV3h9NABpvPE/Xy6R1GmFFrkkkkk6kkxueIXtL4m0UvGGDz3gsXiO7RnsTlUkgbzbWwj5xKQzSI+Ls+TKbZb5uF72y+fGV9Hb1N6PfC4vcKrDKxYC+UD5QWDqPiqFOo6tRLeIoDr0B09bRzlCbi8SVByDO3BcwX1uZBaq1QBijIbnRrX89DIW09mvRYVsJh6dSr+ou5UkdObG++TcI1VqamuqpUI8Sqbga6AHyjl98B6EiFSp1jGJkStUtv0lkn1avESM2J4SM2LFrXlXi8fl0A3iFvBIm1cVa53zDdtNod4aag7hc/SXtfFBVJ3C2v3mCxFfO5Y8Tp5cJh5NeuLkPpCKRFpDSOYTBTBIZKpmQ0Mko0ohs0LTeQ2eOStEFirQwkSiZo+ynZ2rjqvdU9FGtRz8KLzPMngOPvGOK7Zuy62JqilQQ1HPAcBxLHco6me+9iezS7Pw4QkNVbWow3FuQ6DdJnZ/YdDA0u7orbi7m2dzzY/bcJYK3Ey5k5OEc31PoImbnA4jFKguxsLgep0AiO01kTae9TnItXFAMAQxvoCASL9bbh1MgLjytVqVTUm7rlBsq3IVTzY5WMTAY9q6kojJZgD3ikXFrm3PfKnE8JW26adVlq0ylMOiJUPwsXA59dIq7YWpiO4VWYBM5qKfANSMt+ekXtIlFsO35gXpgrfW36gAQeG+VZpVaLg4NqBoZUXIxNkAuWYEbyb+ci9lOc4b24xQprRL0GqoKmpW4ZToBa3E3l1V2jSoURUcFEyg2INwNN456wdXGmthmq0LMxQ93wBa2m/rI20MDUr4YUXKhmULUI8vFl63le+2wv7XC4oOmemQ4IJWxBB5aypwuFbM1R7hmsSL3A03CU3YnY+IwaOlVwVJ8CAk5dT9Ze4zGBFJjx3naV/gmJxQWV7VcwvwkdmLHM3oIQgH01Mrp8MqOANT7SO+DJ8R0+wiXBbNuUH3Ml4nGC1weEn7DF9pK5X+nfU//P8AmZ9BJu2K/eVWbrYemn8yIJza+1pNGPaCpNCEyDeeLJCyMsMDKI2oYtIxrmLTgSfSae19je1GBoU6GEw4qO7WzkUzcuRdnbiddNNwtPE6E9p/DLYZoUTWqIe8cXtbxBeA6E8veLtl9LzPb0BjpdjYbz/EfUOusUuNBpuv7H+ZHqVfi8JOUXH9xtew+k6MjSI+OVqzUMpJVFqEkaakhR5+G86jXDO1gbqQp9s2n/lEpd4amYqAhpi/7s9z4b8gPrBbQ2gtPOAMzrTNQKN7Aaaeukqep7Z/lPYaEjfb/aUbbVr00ompRJZywYJ4rWUm/raWOKNRkIQ5GK6E65WI4iVuycRiVc0sQabeElWW/isRvBGkd70kSn3lZai1qfeU2rAqvHL4SL66AH6SfslMOpqYakuXJYsuv6x8V+PK/SPxmMpUEdz4VHiY/K8fg1QDvFAzOBdh+oD4dfWHx5R07BYZKCJSpghVvvN9+uph3e0G76yLWrXNpfJEn16oAzE2AlB3veNmPwjcPvO2pjMxyLuG/r0kapiAg1Oszuu1fPSbiK0r6uO/QDZf1HmeUqsXtPMSAfM/YSO1cAZjw3CTddCxx2O0AGgEpsVtVrEbtP8Ab/XSVlfFtUY23cf4EHUYmZa1b9HHExizhOQSTSqQ0j2EZRhrSTedKIdRAiGUxkG4jaZ1hakGpjgbL8Odk/mMWt9Upf1G62PhHqfoZ7/gaRBzE6W0Hrvnmn4SbN7vCtXJAeuxVb8Fp5gPnmPtNrsragGWmCWAWxN+KoXdz5llEU1JZGuc3nV0tMLu32Av0F7fUwWc3JlccVUqVKDpdaXdszg2vdgvdqRz1J9JHq7TfPZUJ/rrTJ/tK5i49505s4y17W1RrcYGvQuwYWBAsTbW2+14HaOE71VW9rVEf0Rg1vW0Ni8xRwjZXKkK1r2PA2l1ECeuC+UHUAFhxF915V4/aCim9al/VdVbwg2NgRn8iLfKESgKdV67sPFSRW80La/+0gYTZATF/m6f/TrUzmXqbEMB1tF3Q9DYHHUMVhS++mwKvfQjmp95Pw1RBTUU7ZFUBbbgBoBAU9n06aNTRQqsWYgc23ykqUTh1y0joSty7XsALGw4k8o/c90fa5OLvexlZXxLLm8V2Y+ijdpI9XaF9FFush96Rck3Mz3vvqKk4JVqCmJnMdtEuSOEFtfabZyh0tKo4ocNTMbr8QLIYgDfuEiVcSajZRe3E/aCpqX19z/HOFTSLvQIqgCwg3hAI15RBCOURpjgZNUk0oa0j0jCgyTeeCEWMUw1NLx0jWEWlTudJJShNX2G7NviHeotgKK3u27vD8Ht8XoOcLeTpydvHqPZjY9SngsNhywXwA1Lb/E2fKPIaesdTxRWtiVp0wtOnqzW1LFRZR1NvZVjOyGLdGalVIytmemzfE6qcuc8ltlAHQyRt/amj0qADVzuXTeTYO3QWJ15SfHOz5Ntev8AFavUyoC2mgvrpflO5TPLRq1Eo02YtkOaqx/Uy6qPLMb/APaJeK9hO3N65rDq1cqyi18xN+lhAjFhmKjhx8t878wDfpIjYhF5X104m8oj8RQDXz6i97c+hjK20EUWuABpwAEpdp7btcAgdfsJngzVTfhM9eWS+j+P7aavt1DohzH2HvK6oGfxMZEWjk4XnV8RUIsq5f7m3D04zPXk79nIkmwF+Eo9qbVCgZTrqR1tvi4mqFATMTe9yeJ5W5SFiNnZlzGwsLCZ96aBtet3hzdAL89ILC4Q7206cfWHpUrQwhwjVp23RLawkQCPgOVYxhHExDGQLCKBHMIgk1UGpQ4EDShxJDA01h1YCRg07PL4XUvvPee39hcGqUGoAA0xlzOL3q1LA1CP7QfB6dJ5X2B7PPjatUgXFGmW13Go2lNfqfSe8YfKi2FvAADlFhmtf739ZnZ8tyfhtj1nqFj9m0mrrXZjmRQAgtbQkgt0v9BAUqFOm1SqB/UqWza3Ol7ADgNYVkAYnn4nPEn9IkenjUbOw3q2XdxsN3PfOjOJlGtWjLWVBYa31NusbUxgtc6dJV7UxmVSy2LAXAJAHqZm9t7aR1ALG+l1U7zyLft8o9eTieL3aO0QABcC/ppzMzVbaitUbu7FgMpfiRvsOQlPj8Uz3Y7/APVhK3ZuJyvbnaZa1aXWowlMudZa4eouYIDqd3nKqnilRL3F7SrqY+7I4NsraSZeHXpWz8ECtnHi+RkjFbPS2W0DsPaQqIpzbxJ9RsxsJ0WZ4ln8T2dRteN7j7yPW2QwFptaOGHGc+GB0tM7mH15FtLCGm9uciGelbf7OmqhyjXeJ51VwtRSQUbTQ6H6wsIMG84RqR0QJHRhj1MRkeMWOdowNFTg6GEDSOrwgaSbBEzoyar8Ptj/AJjFZiuZaIzlf3N+hfcfKXdcnUydvG9/CINSw9Re7teoCza3ZiDZfQZdOpM1FfEilVyWJznOzcC5sqqPICQsXtapRCM6oiKhLkbhUJsiLzI1uekiV8aoUtcm+uY/puLeH/XGZY1+/wC299TiZitqqSUXXKfEeF+OsoNqdoTYhAPPh/kyrx2PLjKnhT5t5yBXJNh6AQ15rU/EypWes1r34yPiKWVgPP5G0usDSCFj+1R72LH6D3lRtH/qW/aLewF/neTn7ToOvulE5sby1r1DaAwWy6td7IunFjoo8zNcs6XACrWOUC8vtmbAsQavmF/mXOycBTwqEXzsd569Ok6pjxy1950Y/wDNu+yu8xY7DRFc3ZVW2t9JcVu0eEog/wBRT5eIzybb9YiodTY675VnEQ1j43lE117Rge3mHdstyo4XE01LGo1rEH1nzkMRJ+E2/VpiyuQB13Rcge/4isLb5mcV2gp5ihsCpsw0mGp9umy+LfMntPHs9Vmvcsb+8OTg77a/ttWRAHpjxE8rAzFNt6oOAkzb+1GanTonXKAT52lCTC5glWQ7Qv8AsEKvaA8UHvKew5RbCL4w1s237/ojP+OH9srggiheVofGDqf/AMbbgBHDbz9JWFILLF8YfSCek/hkvcFCbXxC1HJJsVp0zZCehOc+08zO6ez7Fo4WnQpY5rgLh0VQdAFUfFbmTOfzfUjTx/a12wqOFq1dKdPVAdMzfuy/SZnauNzsMzADgo1sOZAlOval8ZjczaJYrSS1wLkat1IB8pYYrFI1enh11Zjra1lFrn6Tm8mtTXG2ZLOhW4Lcn5+0kYPAtmzMLchLtaS0lsoA5nUn1MAa3gepwUG3nb/Imfj3da4reZMq3Dt4XJ/VUJ/7Qf4pn3lC7F30FyT8zL38uzItNBdsg9L2zEnhub3lls7B0cMMxIeod7cuizu8Pj1v6cu7Ih4Ds+AM1WxNrheHrzh65AWwFtdLbh00knEYy+7+ZVValzYXvPV8PhmXLvfSM5I14exlfiK3W3QR2Irm1vlIGLq2H36Tpvpmqtu1rssqu8nYyvmYmAJnneTXdWunM5B+8id5AZ4haZ9UOal43vCPSBzTg0XQc1Qk3JjSYjmNzQAuadmg7zs0OgbPFDwAaKGh0DNUjCIO8UPAFEusft6rWoUcP8NOkirYfrI3M38SkENRmdhypFJbbpcdmsUlHELUqfCL3NibEjfKykIYrFc9llVLy9abbfanvLrRBt+4/YfzLTZNP/k0R2+K9Ryd5BYm3mbATCqJrsWSlOmuthTHyyr9vnI8fixmzP7PW9X2l19rcKdgPr1JkHCM9RtT4RqT5cJHoL3lyTZQPEft5yc+Np5MqABR7369Z7GJJ/jHHbb7qXiMWgNgLW5SvqYoaiQ8RircfWQhUZj4ffhNPlJ6R9ptWoOesrdrVLJFrqVBJYWHLeYEYd662UZrHy+sy8nk5L1ec+2eLRLx+KoNTYqwIYbwYKcFroLeJeJEiBbxAYhMS8Rn3jIoM54ycGiiDjgYA6LeME6BnTol40wIeFpRqrCoJBpVFpJLaSArQueI0lTPQcVSDVHUjQUretwZ51hatmUnUAgn0N7T0TaeLoXLrVVibEBTcmY+W2anGmJLKqMbgu7QLrc6npyEpA5BtLzbuOsAALkgE67ryk70nS2v0nr5s5K4tT2i4sk6X04w2HNhbhOyi/Myz2Xs4sbkev2k3XPdPnfSBTw1SocqqTb/AFvl/sfZNRDmY26D7y1oUQosB7STecuvLdemszI897eUrYgG29B8pmJq+3ldWrKP2rb31mTaRPpTjEvFMbeMOnTokAWdeJOgCMJ0WJaMnXjrxs6AOiRIsAnKI8Tp0zUSOWdOgEigNZcYRZ06Khd0kDfEAdLboOvsdWOhsOU6dHnyan5FzKJhNkqu/WXeHpgCwE6dFd3X2OSHgSLtXHCjSaoeGg8zuizoHHleKrGoxZtSdZFcxJ0tJIhizowQTjOnRkSdOnQN04iLOiIydOnRh0WdOgH/2Q=="
   },
   {
     "id": "dfdeddee-63b8-45c6-a594-a74d7e2f786f",
@@ -1172,7 +941,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "black",
-    "hairColour": "",
+    "hairColour": "Green",
     "wand": {
       "wood": "",
       "core": "",
@@ -1184,33 +953,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "id": "895be996-d91d-441a-87d0-806d945d14e0",
-    "name": "Hermes",
-    "alternate_names": [],
-    "species": "owl",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "grey",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "data:image/jpeg;base64,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"
   },
   {
     "id": "59ffaed8-446f-46b6-bcdc-2ffbf59b11ac",
@@ -1236,36 +979,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "id": "aba1bca5-d3e6-4dc7-b431-5b9a16d8cc12",
-    "name": "Pigwidgeon",
-    "alternate_names": [
-      "Pig",
-      "Piggy"
-    ],
-    "species": "owl",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "grey",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e4/Errol_PM.png/revision/latest/scale-to-width-down/536?cb=20170117132530"
   },
   {
     "id": "79e02eb5-17c0-4dd9-bf55-aec03434812c",
@@ -1294,7 +1008,7 @@
     "actor": "Julie Walters",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://www.encyclopedie-hp.org/wp-content/uploads/sites/4/2016/08/molly-1.jpg"
   },
   {
     "id": "8f3b8796-c7b9-442e-ac02-113d48306fc7",
@@ -1324,7 +1038,7 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://lereliquaire.be/wp-content/uploads/2021/04/dzdz.jpg"
   },
   {
     "id": "28741184-263c-4000-b011-ca7c60466ef4",
@@ -1350,7 +1064,7 @@
     "actor": "James Phelps",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotterfanon/images/2/26/Fred_Weasley.png/revision/latest?cb=20160316040013"
   },
   {
     "id": "2a0615de-8aa4-41e7-9504-dd875f5f3f01",
@@ -1376,7 +1090,7 @@
     "actor": "Oliver Phelps",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://media.harrypotterfanzone.com/george-weasley-order-of-the-phoenix-portrait-3.jpg"
   },
   {
     "id": "cd09be4a-1581-4a7e-b4e7-4505e66a68a5",
@@ -1406,7 +1120,7 @@
       "Domhnall Gleeson"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/12/Bill-Weasley.jpg?q=50&fit=crop&w=1232&h=693&dpr=1.5"
   },
   {
     "id": "01c62c63-f481-41c0-ab06-189caf3a6a61",
@@ -1434,34 +1148,9 @@
     "actor": "Alex Crockford",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b3/Charlie_Weasley_HPSP.jpg/revision/latest?cb=20180504124511&path-prefix=fr"
   },
-  {
-    "id": "2772994f-6a19-4d01-9993-5e10cc6f69a5",
-    "name": "Fat Friar",
-    "alternate_names": [],
-    "species": "ghost",
-    "gender": "male",
-    "house": "Hufflepuff",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Simon Fisher-Becker",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+  
   {
     "id": "1ec8a085-d88c-4ba7-a7c6-a0f93156db07",
     "name": "Peeves",
@@ -1486,36 +1175,9 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://contentful.harrypotter.com/usf1vwtuqyxm/5jsf2rpwncScodENrRmdEy/69ece176dd7cedb03e7ca59e7efa920a/peeves_16_1800x1248.png"
   },
-  {
-    "id": "0af82694-e24f-45ec-a8d7-5bb1199ce631",
-    "name": "Hannah Abbott",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Hufflepuff",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "half-blood",
-    "eyeColour": "",
-    "hairColour": "blonde",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "Charlotte Skeoch",
-    "alternate_actors": [
-      "Louisa Warren"
-    ],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "34155375-c8c0-415e-873a-b6483f0cbf17",
     "name": "Justin Finch-Fletchley",
@@ -1528,7 +1190,7 @@
     "wizard": true,
     "ancestry": "muggleborn",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "brown",
     "wand": {
       "wood": "",
       "core": "",
@@ -1540,7 +1202,7 @@
     "actor": "Edward Randell",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/16/Justin_Finch-Fletchley_%28McGonagall%27s_Class%29_%281%29.png/revision/latest?cb=20180308172742"
   },
   {
     "id": "1413e1b3-2903-4a47-a2d5-e8abc5ce8014",
@@ -1569,89 +1231,13 @@
     "actor": "Devon Murray",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://www.encyclopedie-hp.org/wp-content/uploads/sites/4/2016/08/seamus_op1.jpg"
   },
-  {
-    "id": "856f747e-7617-42a8-9b80-5f0d8df3cb49",
-    "name": "Mr Finnigan",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "47aa7511-59b9-4760-9bd7-822a1103177b",
-    "name": "Theodore Nott",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "343cbce6-6dc2-4fb7-b982-92375a64995f",
-    "name": "Mr Nott",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "Philip Rham",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
+  
   {
     "id": "11b5ca88-64ad-41a4-9f36-317b66c290af",
-    "name": "Nearly Headless Nick",
+    "name": "Nick quasi-sans-tête",
     "alternate_names": [
       "Sir Nicholas de Mimsy-Porpington",
       "Sir Nicholas",
@@ -1677,11 +1263,11 @@
     "actor": "John Cleese",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://www.premiere.fr/sites/default/files/styles/partage_rs/public/2021-07/nick.jpg"
   },
   {
     "id": "9a33fe44-b950-4877-a0cb-902a52c72e8b",
-    "name": "Bloody Baron",
+    "name": "Baron Sanglant",
     "alternate_names": [],
     "species": "ghost",
     "gender": "male",
@@ -1703,34 +1289,9 @@
     "actor": "Terence Bayler",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/90/Baron_Sanglant.jpg/revision/latest?cb=20110831211345&path-prefix=fr"
   },
-  {
-    "id": "45ca6279-6b41-4137-b38c-9547902aa0ce",
-    "name": "The Wailing Widow",
-    "alternate_names": [],
-    "species": "ghost",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+  
   {
     "id": "6ea188f3-d95c-407c-ab00-a0bec8678a71",
     "name": "Cuthbert Binns",
@@ -1757,11 +1318,11 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b7/BinnsInHL.png/revision/latest?cb=20230309231552"
   },
   {
     "id": "45819bd4-ae30-4bd4-b24f-5dd11d16ffda",
-    "name": "Fang",
+    "name": "Croc dur",
     "alternate_names": [],
     "species": "dog",
     "gender": "male",
@@ -1790,11 +1351,11 @@
       "Uno"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://www.lesanimauxducinema.fr/storage/2022/12/Crockdur-harry-potter.jpg"
   },
   {
     "id": "40e0acaa-30cd-4923-8408-9a96a484e892",
-    "name": "Fluffy",
+    "name": "Touffu",
     "alternate_names": [],
     "species": "three-headed dog",
     "gender": "male",
@@ -1804,7 +1365,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "black",
     "wand": {
       "wood": "",
       "core": "",
@@ -1816,7 +1377,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1b/Fluffy2.png/revision/latest?cb=20170925204853"
   },
   {
     "id": "5e4d5e25-5393-435b-81c8-556fa78af659",
@@ -1832,7 +1393,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "orange",
-    "hairColour": "",
+    "hairColour": "grey",
     "wand": {
       "wood": "",
       "core": "",
@@ -1844,62 +1405,9 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT785Bm1QLDihj0TAYd4JyoxI7FlOL4vFoLpQ&s"
   },
-  {
-    "id": "f94e870e-2c3b-4e17-adea-088660b6de78",
-    "name": "Ronan",
-    "alternate_names": [],
-    "species": "centaur",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "red",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "484d89aa-5d22-4d4d-9e07-4913cf8d4d20",
-    "name": "Bane",
-    "alternate_names": [],
-    "species": "centaur",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Jason Piper",
-    "alternate_actors": [
-      "Nuno Silva"
-    ],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "68eb4a0b-6c49-44e9-aec8-5af947d22141",
     "name": "Firenze",
@@ -1926,88 +1434,9 @@
     "actor": "Ray Fearon",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/db/Harry_Potter_and_Firenze_in_the_Forbidden_Forest.jpg/revision/latest?cb=20170721182311"
   },
-  {
-    "id": "d9a33169-462b-41f0-9da3-a8ca04c30736",
-    "name": "The Giant Squid",
-    "alternate_names": [],
-    "species": "cephalopod",
-    "gender": "",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "629c375a-d126-4df4-8f8e-ed63360ecc97",
-    "name": "Murcus",
-    "alternate_names": [
-      "Merchieftainess Murcus"
-    ],
-    "species": "selkie",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "yellow",
-    "hairColour": "green",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "c8f7f244-97ac-449e-922d-a30f063a1ad0",
-    "name": "Elfrick the Eager",
-    "alternate_names": [],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+
   {
     "id": "0d8ea37f-35c4-4c7d-9dd2-8ccd96b0a2b3",
     "name": "Dobby",
@@ -2020,7 +1449,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "green",
-    "hairColour": "",
+    "hairColour": "bald",
     "wand": {
       "wood": "",
       "core": "",
@@ -2032,11 +1461,11 @@
     "actor": "Toby Jones",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/82/Dobby.jpg/revision/latest?cb=20230712061949"
   },
   {
     "id": "ecd3572f-0694-41cc-a59d-392dc3922212",
-    "name": "Kreacher",
+    "name": "Kreattur",
     "alternate_names": [],
     "species": "house-elf",
     "gender": "male",
@@ -2060,86 +1489,9 @@
       "Simon McBurney"
     ],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d4/Kreacher_HPE.jpg/revision/latest/thumbnail/width/360/height/360?cb=20100621114028"
   },
-  {
-    "id": "cd022893-b7ea-4bd8-a4fb-c9933c695813",
-    "name": "Mr Mason",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Jim Norton",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "1c520134-9f75-48a9-b3c7-6c31ffa86178",
-    "name": "Mrs Mason",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Veronica Clifford",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "fa09ab9d-9e65-4966-9d79-ea7c837348fb",
-    "name": "Celestina Warbeck",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Gryffindor",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "half-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "larch",
-      "core": "phoenix feather",
-      "length": 10.5
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+ 
   {
     "id": "3d687c4d-852e-470f-bac5-5a02758b1f8f",
     "name": "Gilderoy Lockhart",
@@ -2154,7 +1506,7 @@
     "wizard": true,
     "ancestry": "half-blood",
     "eyeColour": "blue",
-    "hairColour": "blond",
+    "hairColour": "blonde",
     "wand": {
       "wood": "cherry",
       "core": "dragon heartstring",
@@ -2166,11 +1518,11 @@
     "actor": "Kenneth Branagh",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c4/PromoHP2_Gilderoy_Lockhart_4.jpg/revision/latest?cb=20120410202927&path-prefix=fr"
   },
   {
     "id": "f5b414bc-d173-459c-bfae-177ca4a8b171",
-    "name": "The Basilisk",
+    "name": "Le Basilisk",
     "alternate_names": [],
     "species": "serpent",
     "gender": "",
@@ -2180,7 +1532,7 @@
     "wizard": false,
     "ancestry": "",
     "eyeColour": "yellow",
-    "hairColour": "",
+    "hairColour": "green",
     "wand": {
       "wood": "",
       "core": "",
@@ -2192,7 +1544,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/9a/Basilisk2.PNG/revision/latest?cb=20090822212528"
   },
   {
     "id": "c9804c5b-943b-4710-8f95-0c3b40141007",
@@ -2222,7 +1574,7 @@
       "Ian Kelly"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/a/af/Hermione%27s_father.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20220807133328"
   },
   {
     "id": "895e355a-c017-4eba-bc72-dda0699c0b96",
@@ -2252,11 +1604,11 @@
       "Michelle Fairley"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7a/Mrs_Granger.jpg/revision/latest?cb=20150917184323&path-prefix=fr"
   },
   {
     "id": "8e557e86-28d5-433f-8ac1-d2cecfeb8fb7",
-    "name": "Colin Creevey",
+    "name": "Colin Crivey",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
@@ -2278,39 +1630,12 @@
     "actor": "Hugh Mitchell",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cf/Colin_Crivey.jpg/revision/latest?cb=20150723010207&path-prefix=fr"
   },
-  {
-    "id": "e938023d-ba03-402a-b6ff-ecadc0ff4dbb",
-    "name": "Patrick Delaney-Podmore",
-    "alternate_names": [
-      "Sir Patrick Delaney-Podmore"
-    ],
-    "species": "ghost",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+  
   {
     "id": "9969f803-6835-4871-80b3-7bb975c1ec06",
-    "name": "Moaning Myrtle",
+    "name": "Mimi Geignarde",
     "alternate_names": [
       "Myrtle Elizabeth Warren"
     ],
@@ -2334,7 +1659,7 @@
     "actor": "Shirley Henderson",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b8/Myrtle_Warren_profile.png/revision/latest/scale-to-width-down/1200?cb=20170113020338"
   },
   {
     "id": "a08aebd0-49fb-4d5d-b3db-52bf8f7ce594",
@@ -2360,37 +1685,12 @@
     "actor": "Julian Glover",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2c/Aragog_in_his_lair_COSF.jpg/revision/latest?cb=20100611145604"
   },
-  {
-    "id": "82a29e30-1321-47b8-813f-2710f885b7d2",
-    "name": "Mosag",
-    "alternate_names": [],
-    "species": "acromantula",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "black",
-    "hairColour": "brown",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "fa4f7f3a-947b-4bc1-bab2-c7a19c7c2c30",
-    "name": "Buckbeak",
+    "name": "Buck",
     "alternate_names": [
       "Beaky",
       "Witherwings"
@@ -2415,11 +1715,11 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b2/Hippogriffe.jpg/revision/latest?cb=20090728083357&path-prefix=fr"
   },
   {
     "id": "c8025d43-ad41-4ac2-95b3-00af18a2d843",
-    "name": "Crookshanks",
+    "name": "Pattenrond",
     "alternate_names": [],
     "species": "cat",
     "gender": "male",
@@ -2444,11 +1744,11 @@
       "Pumpkin"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://contentful.harrypotter.com/usf1vwtuqyxm/1VewXrez2U26IIaOUOm0Uo/9257ef81ac9e419a0ec9560d5b50fa8f/WB_F3_Crookshanks_SOLOcrop_C240_51_UP_HPE3.jpg?q=75&fm=jpg&w=2560"
   },
   {
     "id": "ca888b7c-456e-4ad4-a344-9d68de4ff5d6",
-    "name": "The Sorting Hat",
+    "name": "Le Choixpeau Magique",
     "alternate_names": [],
     "species": "hat",
     "gender": "",
@@ -2470,63 +1770,11 @@
     "actor": "Leslie Phillips",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "id": "08aefb5c-2a7c-42e1-a6ac-7f150749aa2a",
-    "name": "Franc Bryce",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Eric Sykes",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "da0c8c39-04e1-4899-b562-e69c21218e2a",
-    "name": "Dot",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/6/62/Sorting_Hat.png/revision/latest?cb=20161120072849"
   },
   {
     "id": "70d665a5-35c9-43a8-a2b0-ef20ddfc3770",
-    "name": "Barty Crouch",
+    "name": "Barty Croupton",
     "alternate_names": [
       "Bartemius Crouch Senior"
     ],
@@ -2550,112 +1798,9 @@
     "actor": "Roger Lloyd-Pack",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/72/Barty_Croupton_Sr..jpg/revision/latest?cb=20150223104217&path-prefix=fr"
   },
-  {
-    "id": "2d25ada6-801e-4943-acca-adffc942820b",
-    "name": "Mr Roberts",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "007484ab-9a1f-4a6c-a219-21a626a215d4",
-    "name": "Mrs Roberts",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "8f3f55ac-99d5-4a01-a0a3-f43ca5052596",
-    "name": "Mr Payne",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "45d6db91-393e-40e0-8c04-43cb598fb9e5",
-    "name": "Winky",
-    "alternate_names": [],
-    "species": "house-elf",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "166ba5e0-ad04-4c7e-9850-6a21aede93c2",
     "name": "Narcissa Malfoy",
@@ -2682,37 +1827,11 @@
     "actor": "Helen McCrory",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
-  },
-  {
-    "id": "a93b80a0-987d-4148-944d-16043df95e8c",
-    "name": "Dennis Creevey",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "muggleborn",
-    "eyeColour": "",
-    "hairColour": "brown",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/78/Narcissa_Malfoy.png/revision/latest?cb=20190111020523"
   },
   {
     "id": "41ebe856-f0f4-4c77-8795-4735d3a87f3d",
-    "name": "Alastor Moody",
+    "name": "Alastor Maugrey",
     "alternate_names": [
       "Professor Moody",
       "Mad-Eye"
@@ -2737,7 +1856,7 @@
     "actor": "Brendan Gleeson",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c2/Alastor_Maugrey.jpg/revision/latest?cb=20141115122841&path-prefix=fr"
   },
   {
     "id": "b4dbc2d2-afde-40ec-a622-b1ffa6aaca4d",
@@ -2753,7 +1872,7 @@
     "wizard": true,
     "ancestry": "",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "brown",
     "wand": {
       "wood": "",
       "core": "",
@@ -2767,11 +1886,11 @@
       "Ian Whyte"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f9/Maxime_1.png/revision/latest?cb=20190628213447"
   },
   {
     "id": "d0d1b648-4e97-4fd0-9045-b721b6ef18d4",
-    "name": "Frank Longbottom",
+    "name": "Frank Londubat",
     "alternate_names": [],
     "species": "human",
     "gender": "male",
@@ -2781,7 +1900,7 @@
     "wizard": true,
     "ancestry": "pure-blood",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "black",
     "wand": {
       "wood": "",
       "core": "",
@@ -2793,11 +1912,37 @@
     "actor": "James Payton",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/98/Order-of-the-phoenix-frank.jpg/revision/latest?cb=20160804033445"
   },
   {
     "id": "27a51041-06a0-4f86-adb1-983ebfac708a",
-    "name": "Alice Longbottom",
+    "name": "Alice Londubat",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "female",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "pure-blood",
+    "eyeColour": "",
+    "hairColour": "black",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Lisa Wood",
+    "alternate_actors": [],
+    "alive": true,
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c4/Order-of-the-phoenix-Alice.jpg/revision/latest?cb=20160804032555"
+  },
+  {
+    "id": "b5e2cf01-8bb6-4fcd-ad88-0efb611195da",
+    "name": "Augusta Londubat",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
@@ -2816,115 +1961,12 @@
     "patronus": "",
     "hogwartsStudent": false,
     "hogwartsStaff": false,
-    "actor": "Lisa Wood",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "b5e2cf01-8bb6-4fcd-ad88-0efb611195da",
-    "name": "Augusta Longbottom",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
     "actor": "Leila Hoffman",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a6/AugustaAndNeville1991.jpg/revision/latest?cb=20160408074805"
   },
-  {
-    "id": "1bb1f2d3-a22d-4f88-b26b-75e18a805ae8",
-    "name": "Elphias Doge",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "blue",
-    "hairColour": "silver",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Peter Cartwright",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "c9c3927e-9858-477f-8847-db5d62841ab6",
-    "name": "Ragnok",
-    "alternate_names": [],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "a64df82a-1131-46cb-ae94-659dadec66e5",
-    "name": "Alphard Black",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+ 
   {
     "id": "214bcbd0-a50a-42be-a25a-22f6eac5b8db",
     "name": "Regulus Black",
@@ -2951,247 +1993,7 @@
     "actor": "Tom Moorcroft",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
-  },
-  {
-    "id": "3dfc2e91-ec32-4e50-bc7a-eda089fbed0d",
-    "name": "Phineas Nigelus Black",
-    "alternate_names": [
-      "Professor Phineas Nigellus Black"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "John Atterbury",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "8475e091-e150-44de-9d83-1d524cfed5c5",
-    "name": "Elladora Black",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "6dc3e8c4-e634-4f92-aaf2-93ba0f9d3d35",
-    "name": "Mrs Black",
-    "alternate_names": [
-      "Walburga Black"
-    ],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "brown",
-    "hairColour": "brown",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "d08ba2a1-2104-4719-89ec-4aab5d9b9072",
-    "name": "Andromeda Tonks",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "brown",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "78a85508-8396-4977-a837-87842f603be0",
-    "name": "Ted Tonks",
-    "alternate_names": [
-      "Edward"
-    ],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "muggleborn",
-    "eyeColour": "",
-    "hairColour": "blond",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "3cf024f3-d956-4b86-8d4d-944c79bc6fe7",
-    "name": "Rodolphus Lestrange",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "874673a2-68e7-45b4-afbc-5520bb62af63",
-    "name": "Rabastan Lestrange",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "2d4cc5cf-836f-4379-82e0-fca4e766ca70",
-    "name": "Gideon Prewett",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "a44923d3-776d-478b-af9c-3b2efc1e1360",
-    "name": "Fabian Prewett",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1c/Regulus_Black_Pottermore.png/revision/latest?cb=20171031194638&path-prefix=fr"
   },
   {
     "id": "94c993f6-a443-4408-b908-6e78e223e8ac",
@@ -3205,7 +2007,7 @@
     "wizard": true,
     "ancestry": "half-blood",
     "eyeColour": "blue",
-    "hairColour": "",
+    "hairColour": "white",
     "wand": {
       "wood": "",
       "core": "",
@@ -3219,89 +2021,12 @@
       "Ciarán Hinds"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Aberforth_Dumbledore.jpg/revision/latest?cb=20170911160033"
   },
-  {
-    "id": "ff0c4625-be03-4815-b7cf-241e496b0593",
-    "name": "Karkus",
-    "alternate_names": [],
-    "species": "giant",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "ab86f41a-3eeb-4586-95d8-b59fbdfc6bb7",
-    "name": "Golgomath",
-    "alternate_names": [],
-    "species": "giant",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "41a7eedf-f856-48e0-b9fd-69cfccaf8835",
-    "name": "Fridwulfa",
-    "alternate_names": [],
-    "species": "giant",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
+  
   {
     "id": "b91bfd22-05cd-4209-970c-dc56c463e9df",
-    "name": "Grawp",
+    "name": "Graup",
     "alternate_names": [],
     "species": "giant",
     "gender": "male",
@@ -3325,112 +2050,9 @@
       "William Todd-Jones"
     ],
     "alive": true,
-    "image": ""
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-d52225f0a9557e7fba8531416be072e1-pjlq"
   },
-  {
-    "id": "7772cb4e-5c33-405a-970d-c05cae167917",
-    "name": "Daphne Greengrass",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Slytherin",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "4adb7764-5292-4b1d-988b-45aa2f9aa7bc",
-    "name": "Magorian",
-    "alternate_names": [],
-    "species": "centaur",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "black",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Michael Wildman",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "c6176f66-ad40-4d0d-9a35-76e2b58c7c23",
-    "name": "Herbert Chorley",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "64108512-af58-4c1c-af8b-0cfa74a41b93",
-    "name": "The British Prime Minister",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "f3c96d16-e0de-4417-9052-5259e6a8e781",
     "name": "Fenrir Greyback",
@@ -3455,429 +2077,9 @@
     "actor": "Dave Legeno",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5d/PromoHP6_Fenrir_Greyback.jpg/revision/latest?cb=20090821070417&path-prefix=fr"
   },
-  {
-    "id": "1d4c4ebb-84cb-4e32-92d2-28232448675c",
-    "name": "Dirk Cresswell",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "muggleborn",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "da1dc2c1-49cf-4499-b169-b0b342ae8245",
-    "name": "Arnold",
-    "alternate_names": [],
-    "species": "pygmy puff",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "purple",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "ee7b0dfb-b639-46f1-9364-7644a103a9a3",
-    "name": "Morfin Gaunt",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "dark",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "0607b07a-d58a-47c7-8845-32476298e9ef",
-    "name": "Marvolo Gaunt",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "brown",
-    "hairColour": "grey",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "23d32b4f-189e-4704-918c-73e733293bcd",
-    "name": "Merope Gaunt",
-    "alternate_names": [
-      "Merope Riddle"
-    ],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "dull",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "b1189355-fe8a-49c5-9a37-3312ef7caecf",
-    "name": "Cecilia",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "3a0fe4df-2e40-4541-8d7f-13586f0b9294",
-    "name": "Tom Riddle",
-    "alternate_names": [
-      "Tom Riddle Senior"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "dark",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "345e02fa-cb14-4269-be4b-8c50090f42fb",
-    "name": "Billy Stubbs",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "f4c61a83-8f9a-4e66-873f-2e7375d6d309",
-    "name": "Amy Benson",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "36f0ca66-b700-4ed6-9cc3-884941f3dfab",
-    "name": "Dennis Bishop",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "39c01cd4-c599-4eb2-86be-86c3b5e38aee",
-    "name": "Mrs Cole",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Amelda Brown",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "a224e504-8a52-4e25-82fc-22cc121180e9",
-    "name": "Eric Whalley",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "muggle",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "c86421d3-d5a1-4ab3-a980-1ba6bca5e572",
-    "name": "Sanguini",
-    "alternate_names": [],
-    "species": "vampire",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "dark",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Charlie Bennison",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "096825a1-4e83-4744-8186-a83139d387c1",
-    "name": "Hokey",
-    "alternate_names": [],
-    "species": "house-elf",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "ceb72b66-cef4-4578-a48b-5e613fcbd276",
-    "name": "Eileen Prince",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "5a4c95db-947d-4914-a631-41e8d466328e",
-    "name": "Kendra Dumbledore",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "muggleborn",
-    "eyeColour": "dark",
-    "hairColour": "black",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
+   {
     "id": "a3cf6943-d402-41d4-b98e-3c4a444b828d",
     "name": "Ariana Dumbledore",
     "alternate_names": [],
@@ -3889,7 +2091,7 @@
     "wizard": true,
     "ancestry": "half-blood",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "blonde",
     "wand": {
       "wood": "",
       "core": "",
@@ -3901,34 +2103,9 @@
     "actor": "Hebe Beardsall",
     "alternate_actors": [],
     "alive": false,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0e/Ariana_Dumbledore_Hog%27s_Head.jpg/revision/latest/thumbnail/width/360/height/450?cb=20141109140224&path-prefix=pt-br"
   },
-  {
-    "id": "acff45a0-33e5-4d19-ad9b-4e522e5edaab",
-    "name": "Apolline Delacour",
-    "alternate_names": [],
-    "species": "half-human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "half-veela",
-    "eyeColour": "",
-    "hairColour": "blonde",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+ 
   {
     "id": "5293240e-c512-4cdb-89b0-cb21ef8b04fb",
     "name": "Gabrielle Delacour",
@@ -3953,257 +2130,12 @@
     "actor": "Angelica Mandy",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2d/PromoHP4_Gabrielle_Delacour.jpg/revision/latest?cb=20110829082905&path-prefix=fr"
   },
-  {
-    "id": "e96dc731-5217-4c83-b173-248e1c70b5e7",
-    "name": "Mary Cattermole",
-    "alternate_names": [
-      "Mary Elizabeth Cattermole"
-    ],
-    "species": "human",
-    "gender": "female",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "muggleborn",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "cherry",
-      "core": "unicorn hair",
-      "length": 8.75
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Kate Fleetwood",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "0f5bc3a8-566d-443e-a49a-8e0616fb8dec",
-    "name": "Gornuk",
-    "alternate_names": [],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "14505ff9-e2d8-4a27-bc85-c8d8dfb2ca33",
-    "name": "Antioch Peverell",
-    "alternate_names": [
-      "First Brother"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "9a8b9fcd-6610-4e24-a5c6-bec1aa50fadd",
-    "name": "Cadmus Peverell",
-    "alternate_names": [
-      "Second Brother"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "461bddf4-cc9d-4737-b1a2-703c06b771a6",
-    "name": "Ignotus Peverell",
-    "alternate_names": [
-      "Third Brother"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "a8dc2688-e8a2-4d50-ac06-5cd324becb5b",
-    "name": "Selwyn",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "pure-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "b3c7de0a-fc23-4dd5-94d2-27e906c45fb7",
-    "name": "Ragnuk the First",
-    "alternate_names": [
-      "King Ragnuk the First"
-    ],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": false,
-    "image": ""
-  },
-  {
-    "id": "7d7968e6-ef05-4192-87d5-99ebd1e54d0b",
-    "name": "Ted Lupin",
-    "alternate_names": [
-      "Edward Remus Teddy Lupin"
-    ],
-    "species": "human",
-    "gender": "male",
-    "house": "Hufflepuff",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": true,
-    "ancestry": "half-blood",
-    "eyeColour": "",
-    "hairColour": "",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Luke Newberry",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
-  {
-    "id": "a2c4fbb5-af04-45a4-9a1e-b39f9bb479c8",
-    "name": "Bogrod",
-    "alternate_names": [],
-    "species": "goblin",
-    "gender": "male",
-    "house": "",
-    "dateOfBirth": null,
-    "yearOfBirth": null,
-    "wizard": false,
-    "ancestry": "",
-    "eyeColour": "black",
-    "hairColour": "white",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": null
-    },
-    "patronus": "",
-    "hogwartsStudent": false,
-    "hogwartsStaff": false,
-    "actor": "Jon Key",
-    "alternate_actors": [],
-    "alive": true,
-    "image": ""
-  },
+  
   {
     "id": "2d9fd582-0be6-4f11-98f5-3358ad14b973",
-    "name": "The Grey Lady",
+    "name": "La dame grise",
     "alternate_names": [
       "Helena Ravenclaw"
     ],
@@ -4229,7 +2161,7 @@
       "Kelly Macdonald"
     ],
     "alive": false,
-    "image": ""
+    "image": "https://pm1.aminoapps.com/6532/5b1900a9852421edab7661fcc60e7413150ec716_hq.jpg"
   },
   {
     "id": "6025d951-2638-4827-baff-aa5db5017a4a",
@@ -4257,7 +2189,7 @@
     "actor": "Daphne de Beistegui",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e6/Lily_L._Potter.jpg/revision/latest/scale-to-width-down/1200?cb=20220831063720"
   },
   {
     "id": "9c8ce8c7-ae0a-4646-920f-09c071862f10",
@@ -4273,7 +2205,7 @@
     "wizard": true,
     "ancestry": "half-blood",
     "eyeColour": "",
-    "hairColour": "",
+    "hairColour": "black",
     "wand": {
       "wood": "",
       "core": "",
@@ -4285,7 +2217,7 @@
     "actor": "Will Dunn",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bd/James_Potter_II.jpg/revision/latest?cb=20120210104721&path-prefix=fr"
   },
   {
     "id": "dcdc063e-cf3e-48fc-b777-65922e899b38",
@@ -4313,7 +2245,7 @@
     "actor": "Arthur Bowen",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://pm1.aminoapps.com/6728/6dbfdc53fa51c7d6db2e74216b034f631c57e371v2_00.jpg"
   },
   {
     "id": "e4653b01-76a5-4769-a6a2-1f2efaf89cbb",
@@ -4339,7 +2271,7 @@
     "actor": "Helena Barlow",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/3/3c/Rose_Weasley.jpg/revision/latest?cb=20120210112911&path-prefix=fr"
   },
   {
     "id": "2b203c7e-7b3d-4f27-8b3c-11473904da73",
@@ -4365,7 +2297,7 @@
     "actor": "Ryan Turner",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cb/Hugo_Weasley.jpg/revision/latest?cb=20150509090750&path-prefix=fr"
   },
   {
     "id": "7f2f6207-8998-4f98-92c2-8d02898a82eb",
@@ -4393,6 +2325,61 @@
     "actor": "Bertie Gilbert",
     "alternate_actors": [],
     "alive": true,
-    "image": ""
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/cd/Scorpius_Malfoy_%28HPCC%29.png/revision/latest?cb=20221220004322"
+  },
+  {
+    "id": "99370b33-d5a7-465b-91b1-55ef2a40182b",
+    "name": "Nymphadora Tonks",
+    "alternate_names": [
+      "Dora",
+      "Nymphadora Lupin"
+    ],
+    "species": "human",
+    "gender": "female",
+    "house": "Hufflepuff",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "half-blood",
+    "eyeColour": "",
+    "hairColour": "pink",
+    "wand": {
+      "wood": "",
+      "core": "",
+      "length": null
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Natalia Tena",
+    "alternate_actors": [],
+    "alive": false,
+    "image": "https://contentful.harrypotter.com/usf1vwtuqyxm/4RCmWhTVFSUk4CQGuYqIIm/e947cbf6cbae0ece4acc39622c6e913f/NymphadoraTonks_WB_F5_NympadoraTonksPromoShot_Promo_100615_Port.jpg?q=75&fm=jpg&w=914"
+  },
+  {
+    "id": "b7b18aa1-b5a0-4083-8142-cb3655bc2849",
+    "name": "Victor Krum",
+    "alternate_names": [],
+    "species": "human",
+    "gender": "male",
+    "house": "",
+    "dateOfBirth": null,
+    "yearOfBirth": null,
+    "wizard": true,
+    "ancestry": "",
+    "eyeColour": "dark",
+    "hairColour": "black",
+    "wand": {
+      "wood": "hornbeam",
+      "core": "dragon heartstring",
+      "length": 10.25
+    },
+    "patronus": "",
+    "hogwartsStudent": false,
+    "hogwartsStaff": false,
+    "actor": "Stanislav Ianevski",
+    "alternate_actors": [],
+    "alive": true,
+    "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f5/PromoHP4_Viktor_Krum.jpg/revision/latest?cb=20150318184926&path-prefix=fr"
   }
 ]
