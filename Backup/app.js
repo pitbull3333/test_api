@@ -1,18 +1,10 @@
-import express from "express";
-import cors from "cors";
-import fs from "fs";
+const express=require("express");
+const cors = require("cors");
+const fs = require("fs");
 const port = process.env.PORT || 800;
 var app=express();
 app.use(cors());// Active CORS pour toutes les routes
 const data = JSON.parse(fs.readFileSync('./data/harry_potter_characters.json', 'utf8'));
-const tracks = [
-{ id: 1, title: 'Track1', albumId: 1 },
-{ id: 2, title: 'Track2', albumId: 3 },
-{ id: 2, title: 'Track3', albumId: 2 }
-];
-app.get("/tracks/:id",(req,res)=>{
-  res.send(tracks.find(t => t.id === Number(req.params.id)).title);
-})
 app.get("/harry_potter",(req,res)=>{
   res.send(data);
 })
