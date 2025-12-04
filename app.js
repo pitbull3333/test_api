@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import fs from "fs";
 const port = process.env.PORT || 800;
-var app=express();
+var app = express();
 app.use(cors());// Active CORS pour toutes les routes
 const data = JSON.parse(fs.readFileSync('./data/harry_potter_characters.json', 'utf8'));
 const tracks = [
